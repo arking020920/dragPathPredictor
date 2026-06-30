@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  File "bahia_Mariel.jpg"
+  Type "RASTER"
+  (-82.78274953, 23.02071065) (0, 0) Label "Point 1",
+  (-82.74480969, 23.00392002) (14145, 6260) Label "Point 2",
+  (-82.78274953, 23.00392002) (0, 6260) Label "Point 3",
+  (-82.74480969, 23.02071065) (14145, 0) Label "Point 4",
+  (-82.76377827, 23.01231533) (7072, 3130) Label "Point 5",
+  (-82.76377827, 23.02071065) (7072, 0) Label "Point 6",
+  (-82.78274953, 23.01231533) (0, 3130) Label "Point 7",
+  (-82.74480969, 23.01231533) (14145, 3130) Label "Point 8",
+  (-82.76377827, 23.00392002) (7072, 6260) Label "Point 9"
+ CoordSys Earth Projection 1, 104, 7, 0
+ Units "degree"

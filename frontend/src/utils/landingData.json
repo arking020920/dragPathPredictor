@@ -1,0 +1,40 @@
+{
+  "intro": {
+    "title": "Bienvenido a Nuestra Plataforma",
+    "description": "Descubre cómo nuestras soluciones innovadoras pueden transformar tu negocio y llevarlo al siguiente nivel."
+  },
+  "features": [
+    {
+      "icon": "bi-gear",
+      "title": "Personalización Total",
+      "description": "Adapta nuestras herramientas a tus necesidades específicas con facilidad."
+    },
+    {
+      "icon": "bi-shield-check",
+      "title": "Seguridad Garantizada",
+      "description": "Mantén tus datos seguros con nuestras avanzadas medidas de protección."
+    },
+    {
+      "icon": "bi-bar-chart",
+      "title": "Análisis Potente",
+      "description": "Obtén información valiosa con nuestros análisis en tiempo real."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Esta plataforma ha revolucionado la forma en que trabajamos. Es increíblemente eficiente.",
+      "name": "Carlos Pérez",
+      "position": "CEO, Innovatech"
+    },
+    {
+      "quote": "Nunca pensé que sería tan fácil mejorar nuestra productividad. ¡Muy recomendable!",
+      "name": "Ana Gómez",
+      "position": "Directora de Operaciones, TechWorld"
+    },
+    {
+      "quote": "Gracias a su equipo de soporte, implementar sus soluciones fue un proceso sin complicaciones.",
+      "name": "Luis Martínez",
+      "position": "Gerente de Proyectos, FutureNow"
+    }
+  ]
+}

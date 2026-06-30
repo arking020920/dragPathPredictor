@@ -1,0 +1,42 @@
+{
+    "general": [
+        {
+            "question": "What is Langrangian Leeway?",
+            "answer": "Langrangian Leeway is a predictive modeling tool that uses the Lagrangian model to forecast trajectories of various objects in different environments."
+        },
+        {
+            "question": "How does the Lagrangian model work?",
+            "answer": "The Lagrangian model tracks particles or objects as they move through space and time, considering various factors such as currents, winds, and other environmental conditions to predict their future positions."
+        },
+        {
+            "question": "Who can use Langrangian Leeway?",
+            "answer": "Langrangian Leeway can be used by researchers, environmentalists, marine biologists, and anyone interested in predicting the movement of objects in marine and atmospheric environments."
+        },
+        {
+            "question": "Is Langrangian Leeway free to use?",
+            "answer": "Yes, Langrangian Leeway is currently free to use. However, we may introduce premium features in the future."
+        }
+    ],
+    "technical": [
+        {
+            "question": "What are the system requirements for running Langrangian Leeway?",
+            "answer": "You need Python 3.9 or higher, Flask, React, and Node.js. Make sure you have these installed on your system before running Langrangian Leeway."
+        },
+        {
+            "question": "How do I install Langrangian Leeway?",
+            "answer": "Follow these steps:\n1. Clone the repository: `git clone https://github.com/your-repo/langrangian-leeway.git`\n2. Navigate to the project directory: `cd langrangian-leeway`\n3. Install backend dependencies: `pip install -r requirements.txt`\n4. Install frontend dependencies: `npm install`\n5. Run the backend server: `flask run`\n6. Run the frontend server: `npm start`"
+        },
+        {
+            "question": "How do I get an API token?",
+            "answer": "Register on our website and log in to your account. The token will be provided upon successful login."
+        },
+        {
+            "question": "Can I integrate Langrangian Leeway with other applications?",
+            "answer": "Yes, you can integrate our API with your own applications to utilize the predictive modeling capabilities."
+        },
+        {
+            "question": "Is there a limit to the number of predictions I can make?",
+            "answer": "There is no limit for now, but excessive use may be subject to rate limiting to ensure fair usage for all users."
+        }
+    ]
+}

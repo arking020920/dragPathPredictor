@@ -1,0 +1,35 @@
+[
+    {
+        "name": "About",
+        "path": "/about"
+    },
+    {
+        "name": "Contact",
+        "path": "/contact"
+    },
+    {
+        "name": "Términos de uso",
+        "path": "/termsofuse",
+        "dropdown": true
+    },
+    {
+        "name": "Políticas de Privacidad",
+        "path": "/privacypolicy",
+        "dropdown": true
+    },
+    {
+        "name": "FAQs",
+        "path": "/faqs",
+        "dropdown": true
+    },
+    {
+        "name": "Document",
+        "path": "/document",
+        "auth": true
+    },
+    {
+        "name": "ToolMap",
+        "path": "/toolmap",
+        "auth": true
+    }
+]

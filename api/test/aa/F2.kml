@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_green.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99">
+            <IconStyle id="100">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104">
+            <IconStyle id="105">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="106">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="109">
+            <IconStyle id="110">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="111">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114">
+            <IconStyle id="115">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119">
+            <IconStyle id="120">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="121">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="129">
+            <IconStyle id="130">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="131">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="134">
+            <IconStyle id="135">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="139">
+            <IconStyle id="140">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="149">
+            <IconStyle id="150">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="151">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="154">
+            <IconStyle id="155">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="156">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="159">
+            <IconStyle id="160">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="161">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="164">
+            <IconStyle id="165">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="166">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="169">
+            <IconStyle id="170">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="171">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="174">
+            <IconStyle id="175">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="176">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="179">
+            <IconStyle id="180">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="181">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="184">
+            <IconStyle id="185">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="186">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="189">
+            <IconStyle id="190">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="191">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_black.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="194">
+            <IconStyle id="195">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="196">
+                    <href>http://maps.google.com/mapfiles/kml/pal3/icon49.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="199">
+            <IconStyle id="200">
+                <colorMode>normal</colorMode>
+                <scale>0.25</scale>
+                <heading>0</heading>
+                <Icon id="201">
+                    <href>http:// labs.google.com/ridefinder/images/mm_20_blue.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name/>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>-77.1994357947127,19.861966067146398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name/>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>[-77.19943579],[19.86196607],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name/>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>-77.20795461196714,19.863865513902635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name/>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>[-77.20795461],[19.86386551],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name/>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>-77.21623479693655,19.865220905252514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name/>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>[-77.2162348],[19.86522091],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name/>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>-77.22429935835213,19.865978808120907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name/>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>[-77.22429936],[19.86597881],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name/>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>-77.23218422249717,19.86613800442509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name/>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>[-77.23218422],[19.866138],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name/>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>-77.24015253391616,19.86571675402154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name/>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>[-77.24015253],[19.86571675],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name/>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>-77.248273372699,19.8647119319324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name/>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>[-77.24827337],[19.86471193],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name/>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>-77.25651948460536,19.863045881553436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name/>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>[-77.25651948],[19.86304588],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name/>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>-77.2641029659532,19.860799408726102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name/>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>[-77.26410297],[19.86079941],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name/>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>-77.27105929691378,19.858131798196297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name/>
+            <styleUrl>#99</styleUrl>
+            <Point id="97">
+                <coordinates>[-77.2710593],[19.8581318],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name/>
+            <styleUrl>#104</styleUrl>
+            <Point id="102">
+                <coordinates>-77.27776652006844,19.855477213006793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name/>
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
+                <coordinates>[-77.27776652],[19.85547721],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name/>
+            <styleUrl>#114</styleUrl>
+            <Point id="112">
+                <coordinates>-77.28455553208144,19.853262096656525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name/>
+            <styleUrl>#119</styleUrl>
+            <Point id="117">
+                <coordinates>[-77.28455553],[19.8532621],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name/>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>-77.29132028701514,19.851533585136597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name/>
+            <styleUrl>#129</styleUrl>
+            <Point id="127">
+                <coordinates>[-77.29132029],[19.85153359],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name/>
+            <styleUrl>#134</styleUrl>
+            <Point id="132">
+                <coordinates>-77.29849780092611,19.850871969569894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <name/>
+            <styleUrl>#139</styleUrl>
+            <Point id="137">
+                <coordinates>[-77.2984978],[19.85087197],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name/>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
+                <coordinates>-77.30637009706871,19.851886407042453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="148">
+            <name/>
+            <styleUrl>#149</styleUrl>
+            <Point id="147">
+                <coordinates>[-77.3063701],[19.85188641],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name/>
+            <styleUrl>#154</styleUrl>
+            <Point id="152">
+                <coordinates>-77.31443418023392,19.854583801345907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="158">
+            <name/>
+            <styleUrl>#159</styleUrl>
+            <Point id="157">
+                <coordinates>[-77.31443418],[19.8545838],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name/>
+            <styleUrl>#164</styleUrl>
+            <Point id="162">
+                <coordinates>-77.3224130863711,19.857824868856746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="168">
+            <name/>
+            <styleUrl>#169</styleUrl>
+            <Point id="167">
+                <coordinates>[-77.32241309],[19.85782487],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name/>
+            <styleUrl>#174</styleUrl>
+            <Point id="172">
+                <coordinates>-77.33039074640614,19.860308671716336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="178">
+            <name/>
+            <styleUrl>#179</styleUrl>
+            <Point id="177">
+                <coordinates>[-77.33039075],[19.86030867],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name/>
+            <styleUrl>#184</styleUrl>
+            <Point id="182">
+                <coordinates>-77.33846353371705,19.861701254816044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="188">
+            <name/>
+            <styleUrl>#189</styleUrl>
+            <Point id="187">
+                <coordinates>[-77.33846353],[19.86170125],0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name/>
+            <styleUrl>#194</styleUrl>
+            <Point id="192">
+                <coordinates>-85.76656899999999,19.747526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="198">
+            <name/>
+            <styleUrl>#199</styleUrl>
+            <Point id="197">
+                <coordinates>[nan],[nan],0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

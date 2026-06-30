@@ -1,0 +1,49 @@
+{
+    "intro": {
+      "title": "Sobre nosotros",
+      "description": "Welcome to Langrangian Leeway, your reliable partner in predictive modeling and analysis. Our mission is to provide state-of-the-art solutions to complex problems using the Lagrangian model."
+    },
+    "sections": [
+      {
+        "title": "Misión",
+        "content": "To deliver precise and efficient predictive solutions that help our clients navigate through uncertainties and make informed decisions."
+      },
+      {
+        "title": "Visión",
+        "content": "To be a global leader in predictive modeling, known for our innovation, reliability, and excellence in service."
+      },
+      {
+        "title": "Objetivo",
+        "content": "Integrity, Innovation, and Customer Focus. We strive to uphold these values in every project we undertake."
+      }
+    ],
+    "team": [
+      {
+        "name": "Jane Doe",
+        "position": "CEO & Founder",
+        "image": "login.svg"
+      },
+      {
+        "name": "John Smith",
+        "position": "Chief Technology Officer",
+        "image": "login.svg"
+      },
+      {
+        "name": "Emily Johnson",
+        "position": "Lead Data Scientist",
+        "image": "login.svg"
+      },
+      {
+        "name": "Michael Brown",
+        "position": "Project Manager",
+        "image": "login.svg"
+      }
+    ],
+    "contact": {
+      "title": "Contáctanos",
+      "description": "No dude en comunicarse con nosotros para cualquier consulta o colaboración.",
+      "email": "contact@langrangianleeway.com",
+      "phone": "(+53) 5-123-4567"
+    }
+  }
+  

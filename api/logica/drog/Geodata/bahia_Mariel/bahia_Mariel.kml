@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml><GroundOverlay><name>bahia_Mariel.jpg</name><color>88ffffff</color><Icon>
+<href>bahia_Mariel.jpg</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north>23.0207106471062</north>
+<south>23.0039200186729</south>
+<east>-82.7448096871376</east>
+<west>-82.7827495336533</west>
+</LatLonBox></GroundOverlay></kml>

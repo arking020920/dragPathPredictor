@@ -1,0 +1,38 @@
+/* Estilos para el contenedor de las coordenadas */
+ul {
+  display: flex; /* Utilizamos flexbox para mostrar en una fila */
+  flex-wrap: wrap; /* Permite que los elementos se envuelvan si no caben en una línea */
+  padding: 0; /* Eliminamos el padding predeterminado */
+  margin: 0; /* Eliminamos el margen */
+  justify-content: center; /* Centra los elementos en el contenedor */
+  gap: 15px; /* Espacio entre los elementos */
+}
+
+/* Estilos para cada item de la lista (coordenadas) */
+li {
+  background-color: #f0f0f0; /* Fondo suave para cada coordenada */
+  border-radius: 5px; /* Bordes redondeados */
+  padding: 8px 12px; /* Espaciado interno */
+  font-size: 14px; /* Tamaño de fuente */
+  font-family: 'Arial', sans-serif; /* Tipo de fuente */
+  color: #333; /* Color del texto */
+  cursor: pointer; /* Indicar que es interactivo */
+  transition: background-color 0.3s ease, transform 0.2s ease; /* Transiciones suaves */
+}
+
+/* Efecto hover */
+li:hover {
+  background-color: #e0f7fa; /* Cambio de color de fondo al pasar el mouse */
+  transform: scale(1.05); /* Aumenta el tamaño ligeramente al pasar el mouse */
+  cursor:copy;
+}
+
+/* Resaltar el primer y último elemento con bordes diferentes */
+li:first-child {
+  border-left: 3px solid #00796b;
+}
+
+li:last-child {
+  border-right: 3px solid #00796b;
+}
+
